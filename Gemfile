@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '5.0.7.1'
+gem 'node'
+gem 'yarn'
+# gem 'webpacker', '~> 5.x'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'sass-rails'
