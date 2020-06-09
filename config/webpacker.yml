@@ -1,0 +1,3 @@
+source_path: frontend
+source_entry_path: packs
+public_output_path: assets/packs # outputs to => public/assets/packs
